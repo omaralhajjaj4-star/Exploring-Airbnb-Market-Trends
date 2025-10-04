@@ -1,2 +1,13 @@
 # Exploring-Airbnb-Market-Trends
 Analyzed NYC Airbnb listings to reveal a market dominated by commercial operators, not casual hosts. This project uncovers the geographic and economic factors driving the city's short-term rental landscape, highlighting key price determinants and host typologies.
+Project Overview
+This project conducts an in-depth exploratory data analysis (EDA) of the New York City Airbnb market using the 2019 public dataset. The analysis moves beyond a surface-level description of the data to investigate the underlying structure of the short-term rental ecosystem in one of the world's largest markets. By examining the interplay between geography, pricing, and host activity, this project provides a data-driven case study on the commercialization of "sharing economy" platforms and their impact on urban environments. The analysis is implemented in Python, leveraging core data science libraries such as Pandas, Matplotlib, and Seaborn for data manipulation and visualization.
+
+Key Questions and Findings
+This table provides an executive summary of the core analytical questions addressed and the key insights uncovered by the project.
+
+Analysis and Visualizations
+This section presents the detailed findings from the analysis, supported by key data visualizations.
+
+Decoding Pricing Dynamics
+The price of a listing is primarily determined by two factors: room type and location. Entire home/apt listings command significantly higher prices than Private room or Shared room options, creating clear market tiers.
